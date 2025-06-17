@@ -1,1 +1,1 @@
-# MULTIX
+# The MULTIX computing space
